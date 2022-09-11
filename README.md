@@ -1,7 +1,7 @@
 # CID-Net (Complex-valued Incection for Diverging-wave Network)
 This repo provides CID-Net model with trained weights in [Open Neural Network Exchange (ONNX)](https://onnx.ai) format and a inference demo script, for the following paper:
 
-[Complex Convolutional Neural Networks for Ultrafast Ultrasound Imaging Reconstruction from In-Phase/Quadrature Signal](https://arxiv.org/abs/2009.11536)
+[Complex Convolutional Neural Networks for Ultrafast Ultrasound Imaging Reconstruction from In-Phase/Quadrature Signal](https://ieeexplore.ieee.org/document/9614147)
 
 ## Repo Contents
 
